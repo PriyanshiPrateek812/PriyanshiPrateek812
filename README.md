@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyanshi Prateek
-- 🌱 I’m a 3rd year in Kalinga Institute of Industrial Tecnology(KIIT) doing my B.Tech in Computer Science and Engineering(CSE)
+- 🌱 I’m a 4th year in Kalinga Institute of Industrial Tecnology(KIIT) doing my B.Tech in Computer Science and Engineering(CSE)
 - 📫 How to reach me priyanshiprateek812@gmail.com
 
 <!---
